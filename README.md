@@ -115,22 +115,22 @@
 <div class="footer">
     <div class="instagram">
         <span>_amina_sarr / amina_rassoul19</span>
-        <img src="./images/logo_instagram.png">
+        <img src="./images/logo_instagram.jpg">
         <a href="https://www.instagram.com/_amina_sarr?igsh=ajZzaDVoOHFnMjk1&utm_source=qr"></a> 
     </div>
     <div class="tiktok">
         <span>amyna_sarr</span>
-        <img src="./images/logo_tiktok.png">
+        <img src="./images/logo_tiktok.jpg">
         <a href="https://www.tiktok.com/@amyna_sarr?_t=8kU0ilU5SVy&_r=1"></a>
     </div>
     <div class="twitter">
         <span>amynaa_sr</span>
-        <img src="./Images/logo_x.png">
+        <img src="./Images/logo_x.jpg">
         <a href="https://x.com/amynaa_sr?s=21"></a>
     </div>
     <div class="snapchat">
         <span>amynaa_sr / a_rassoul3419</span>
-        <img src="./Images/logo_snapchat.png">
+        <img src="./Images/logo_snapchat.jpg">
         <a href="https://t.snapchat.com/y4BK8CSq"></a>
 
     </div>
